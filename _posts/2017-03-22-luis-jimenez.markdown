@@ -8,14 +8,11 @@ description: >
 permalink: /:categories/:title.html
 ---
 
-### Titulo 1	
+Descripcion o biografia.
+
+Pueden escribir varios parrafos.
+
+![Imagen externa](http://i.imgur.com/clKyho4.jpg)
+![Imagen local](/assets/img/ejemplo/and.gif)
 
 [Link](https://www.google.com) hacia Google.
-
-#### Titulo 2
-
-Texto.
-
-##### Titulo 3
-
-Texto
