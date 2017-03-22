@@ -1,0 +1,19 @@
+title: CC3-AN Estructura de Máquinas
+description: Página del curso de CC3-AN Estructura de Máquinas Universidad Galileo
+
+url: "https://cc-3an.github.io/"
+baseurl: ""
+
+markdown: kramdown
+highlighter: rouge
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: Laboratorios
+   url: /labs.html
+ - title: Proyectos
+   url: /proyectos.html
+
+social:
+   github: cc-3an

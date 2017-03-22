@@ -1,0 +1,20 @@
+layout: post
+title:  "Luis Jimenez"
+date:   2017-03-22
+category: staff
+description: >
+    Luis Jimenez es quien esta rompiendo cosas en la pagina.
+permalink: /:categories/:title.html
+----
+
+### Titulo 1
+
+[Link](https://www.google.com) hacia Google.
+
+#### Titulo 2
+
+Texto.
+
+##### Titulo 3
+
+Texto
