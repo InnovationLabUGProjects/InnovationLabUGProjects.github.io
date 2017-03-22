@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: nodate
 title:  "Luis Jimenez"
 date:   2017-03-22
 category: staff
 description: >
-    Luis Jimenez es quien esta rompiendo cosas en la pagina.
+    Descripcion corta que se vera en el listado por categoria.
 permalink: /:categories/:title.html
 ---
 
