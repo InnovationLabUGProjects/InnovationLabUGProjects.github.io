@@ -2,7 +2,7 @@
 layout: post
 title:  "Talleres ejemplo"
 date:   2017-02-01
-category: talleres
+category: taller
 description: >
     Descripcion corta que se vera en el listado por categoria.
 permalink: /:categories/:title.html
