@@ -8,7 +8,6 @@ description: >
 permalink: /:categories/:title.html
 ----
 
-### Titulo 1
 
 [Link](https://www.google.com) hacia Google.
 
