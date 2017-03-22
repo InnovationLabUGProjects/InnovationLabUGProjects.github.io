@@ -1,5 +1,5 @@
-title: CC3 Estructura de Máquinas
-description: Página del curso de CC3 Estructura de Máquinas Universidad Galileo
+title: Laboratorio de Innovacion
+description: Laboratorio de Innovacion, Universidad Galileo.
 
 url: "localhost:4000"
 baseurl: ""
@@ -10,7 +10,10 @@ highlighter: rouge
 navigation:
  - title: Home
    url: /index.html
- - title: Laboratorios
-   url: /labs.html
+ - title: Staff
+   url: /staf.html
  - title: Proyectos
    url: /proyectos.html
+
+social:
+   github: InnovationLabUGProjects

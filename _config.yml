@@ -1,7 +1,7 @@
-title: CC3-AN Estructura de Máquinas
-description: Página del curso de CC3-AN Estructura de Máquinas Universidad Galileo
+title: Laboratorio de Innovacion
+description: Laboratorio de Innovacion, Universidad Galileo.
 
-url: "https://cc-3an.github.io/"
+url: "https://InnovationLabUGProjects.github.io/"
 baseurl: ""
 
 markdown: kramdown
@@ -10,10 +10,10 @@ highlighter: rouge
 navigation:
  - title: Home
    url: /index.html
- - title: Laboratorios
-   url: /labs.html
+ - title: Staff
+   url: /staf.html
  - title: Proyectos
    url: /proyectos.html
 
 social:
-   github: cc-3an
+   github: InnovationLabUGProjects
