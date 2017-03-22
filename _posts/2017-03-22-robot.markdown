@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Luis Jimenez"
+title:  "Robot"
 date:   2017-03-22
-category: staff
+category: proyecto
 description: >
-    Luis Jimenez es quien esta rompiendo cosas en la pagina.
+    El robot es un proyecto
 permalink: /:categories/:title.html
 ----
 
