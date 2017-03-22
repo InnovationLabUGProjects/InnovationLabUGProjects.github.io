@@ -6,9 +6,9 @@ category: staff
 description: >
     Luis Jimenez es quien esta rompiendo cosas en la pagina.
 permalink: /:categories/:title.html
-----
+---
 
-### Titulo 1
+### Titulo 1	
 
 [Link](https://www.google.com) hacia Google.
 
