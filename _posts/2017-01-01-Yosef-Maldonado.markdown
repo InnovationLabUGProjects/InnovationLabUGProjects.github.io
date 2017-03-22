@@ -1,12 +1,14 @@
 ---
 layout: nodate
-title:  "Luis Jimenez"
-date:   2017-03-22
+title:  "Yosef Maldonado"
+date:   2017-01-01
 category: staff
 description: >
     Descripcion corta que se vera en el listado por categoria.
 permalink: /:categories/:title.html
 ---
+
+No modifiquen la fecha del post de staff.
 
 Descripcion o biografia.
 
