@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Robot viejo"
+date:   2017-03-22
+category: proyecto
+description: >
+    El robot es un proyecto viejo
+permalink: /:categories/:title.html
+----
+
+### Titulo 1
+
+[Link](https://www.google.com) hacia Google.
+
+#### Titulo 2
+
+Texto.
+
+##### Titulo 3
+
+Texto
