@@ -1,5 +1,5 @@
-title: Laboratorio de Innovacion
-description: Laboratorio de Innovacion, Universidad Galileo.
+title: Innovation Lab
+description: Innovation Lab, Universidad Galileo.
 
 url: "localhost:4000"
 baseurl: ""
@@ -20,4 +20,4 @@ navigation:
    url: /talleres.html
 
 social:
-   github: InnovationLabUGProjects
+   github: InnovationLabUG
