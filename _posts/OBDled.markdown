@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: noday
 title:  "OBDled"
 date:   2016-06-27
 category: proyecto

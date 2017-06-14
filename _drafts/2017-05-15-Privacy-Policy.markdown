@@ -2,7 +2,7 @@
 layout: post
 title:  "Cuprum's Privacy Policy"
 date:   2017-02-01
-category: proyecto
+category: draft
 description: >
     Cuprum's (chatbot app for Facebook Messenger) Privacy Policy
 permalink: /:categories/:title.html
