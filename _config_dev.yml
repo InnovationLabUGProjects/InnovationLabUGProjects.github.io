@@ -12,12 +12,12 @@ navigation:
    url: /index.html
  - title: Staff
    url: /staff.html
- - title: Proyectos
-   url: /proyectos.html
- - title: Presentaciones
-   url: /presentaciones.html
- - title: Talleres
-   url: /talleres.html
+ - title: Proyects
+   url: /projects.html
+ - title: Presentations
+   url: /presentations.html
+ - title: Workshops
+   url: /workshops.html
 
 social:
    github: InnovationLabUG
