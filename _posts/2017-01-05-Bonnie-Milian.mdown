@@ -1,20 +1,17 @@
 ---
 layout: nodate
-title:  "Bonnie Milian"
+title:  "Bonnie Milián"
 date:   2017-01-05
 category: staff
 description: >
-    Descripcion corta que se vera en el listado por categoria.
+    Woman developer and maker from Guatemala.
 permalink: /:categories/:title.html
 ---
 
-No modifiquen la fecha del post de staff.
+![Bonnie Milián](/assets/img/staff/bonnie.jpg)
 
-Descripcion o biografia.
-
-Pueden escribir varios parrafos.
-
-![Imagen externa](http://i.imgur.com/clKyho4.jpg)
-![Imagen local](/assets/img/ejemplo/and.gif)
-
-[Link](https://www.google.com) hacia Google.
+I'm Bonnie Milián a woman Developer and Maker, from Guatemala. On my work in Innovation Lab as Research Assistant (Universidad Galileo) I develop projects combining Software and Hardware, and  give or aid on workshops.
+I'm currently studying 4th year of Systems Engineering and Computer Science (Universidad Galileo).
+ 
+I love playing with JS, I do a little bit of NodeBots, Frontend, Backend.
+I’m a ReactJS & NodeJS fan, AI beginner, Speaker & Workshoper beginner.

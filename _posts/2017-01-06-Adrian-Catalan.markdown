@@ -1,20 +1,13 @@
 ---
 layout: nodate
-title:  "Adrian Catalan"
+title:  "Adrián Catalán"
 date:   2017-01-06
 category: staff
 description: >
-    Descripcion corta que se vera en el listado por categoria.
+    Innovation Lab leader and Google Developer Expert.
 permalink: /:categories/:title.html
 ---
 
-No modifiquen la fecha del post de staff.
+![Adrián Catalán](/assets/img/staff/adrian.jpg)
 
-Descripcion o biografia.
-
-Pueden escribir varios parrafos.
-
-![Imagen externa](http://i.imgur.com/clKyho4.jpg)
-![Imagen local](/assets/img/ejemplo/and.gif)
-
-[Link](https://www.google.com) hacia Google.
+Adrián has been involved in software industry for 13+ years, working both in web and mobile apps. GDG Guatemala, GuatemalaJS and Nodebots former co-organizer. Currently he leads the Innovation Lab at Galileo University and is a Google Developer Expert (GDE) for Android, IoT and Firebase.

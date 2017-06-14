@@ -4,17 +4,10 @@ title:  "Luis Jimenez"
 date:   2017-01-03
 category: staff
 description: >
-    Descripcion corta que se vera en el listado por categoria.
+    Interested in computer vision, hardware and education.
 permalink: /:categories/:title.html
 ---
 
-No modifiquen la fecha del post de staff.
+![Luis Jimenez](/assets/img/staff/luis.jpg)
 
-Descripcion o biografia.
-
-Pueden escribir varios parrafos.
-
-![Imagen externa](http://i.imgur.com/clKyho4.jpg)
-![Imagen local](/assets/img/ejemplo/and.gif)
-
-[Link](https://www.google.com) hacia Google.
+Luis is a Computer Science Engineering graduate working as researcher and workshop instructor at Innovation Lab at Galileo University. Luis' interests include computer vision, computer-human interaction, working with hardware and engineering education. Currently teaches first to fourth semester undergraduate courses.
