@@ -14,4 +14,4 @@ Status: In progress.
 
 #### Description
 
-On the mobile app take a photo, send it to Google Cloud Vision API, found coordinates of face elements and draw it on the photo and show it on the App.
+On the mobile app take a photo, send it to Google Cloud Vision API, found coordinates of face elements and draw it on the photo and show it on the App.ss
