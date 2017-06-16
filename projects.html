@@ -15,7 +15,15 @@ h4 {margin:0px;}
       {% for post in site.categories.proyecto %}
       <li>
         <div class='container2'>
-          <div><img src='../assets/img/op080.png' class='iconDetails'></div>  
+          <!-- <div><img src='../assets/img/op080.png' class='iconDetails'></div> -->
+
+          <div>
+            {% if post.icon }
+              <img src='../assets/img/icons/{{ post.icon }}' class='iconDetails'>
+            {% else %}
+              <img src='../assets/img/op020.png' class='iconDetails'>
+            {% endif %}
+          </div>
           <div style='margin-left:150px;'>
             <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
             <div style="font-size:1em">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% endif %}</div>
