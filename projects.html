@@ -5,7 +5,7 @@ title: Projects - Innovation Lab
 
 <style type="text/css">
 .iconDetails {margin-left:1%;float:left;height:160px;width:160px;} 
-.container2 {width:100%;height:auto;padding:1%;}
+.container2 {width:100%;height:auto;padding:1%;clear:left;}
 h4 {margin:0px;}
 </style>
 
@@ -22,7 +22,7 @@ h4 {margin:0px;}
           </div>
           <div style='margin-left:170px;'>
             <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
-            <div style="font-size:1em">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 100 }}{% endif %}</div>
+            <div style="font-size:1em">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 96 }}{% endif %}</div>
           </div>
         </div>
       </li>
