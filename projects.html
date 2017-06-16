@@ -15,11 +15,9 @@ h4 {margin:0px;}
       {% for post in site.categories.proyecto %}
       <li>
         <div class='container2'>
-          <!-- <div><img src='../assets/img/op080.png' class='iconDetails'></div> -->
-
           <div>
             {% if post.icon }
-              <img src='../assets/img/icons/{{ post.icon }}' class='iconDetails'>
+              <img src='../assets/img/icons/{{post.icon}}' class='iconDetails'>
             {% else %}
               <img src='../assets/img/op020.png' class='iconDetails'>
             {% endif %}
