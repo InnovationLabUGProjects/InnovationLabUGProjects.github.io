@@ -14,15 +14,9 @@ h4 {margin:0px;}
   <ul class="posts noList">
       {% for post in site.categories.proyecto %}
       <li>
-      <!--
-        <span class="date">{{ post.date | date: '%B, %Y' }}</span>
-        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
-      -->
-
         <div class='container2'>
           <div><img src='../assets/img/op080.png' class='iconDetails'></div>  
-          <div style='margin-left:130px;'>
+          <div style='margin-left:150px;'>
             <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
             <div style="font-size:1em">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% endif %}</div>
           </div>
