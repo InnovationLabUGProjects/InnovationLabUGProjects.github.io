@@ -4,17 +4,10 @@ title:  "Eve Cruz"
 date:   2017-01-04
 category: staff
 description: >
-    Descripcion corta que se vera en el listado por categoria.
+    Labs and workshops instructor with a huge interest in Biomedic field.
 permalink: /:categories/:title.html
 ---
 
-No modifiquen la fecha del post de staff.
+![Evelyn Cruz](/assets/img/staff/eve.jpg)
 
-Descripcion o biografia.
-
-Pueden escribir varios parrafos.
-
-![Imagen externa](http://i.imgur.com/clKyho4.jpg)
-![Imagen local](/assets/img/ejemplo/and.gif)
-
-[Link](https://www.google.com) hacia Google.
+Evelyn as Innovation Lab's assistant is in charge of setting up and giving labs for freshman year engineering students as well as workshops for different high schools. Also works as professor and professor's assistant at the Univeristy. As today she's studying a Master's of Science in Industrial Electronics, and Biomedic field drives her crazy.

@@ -4,17 +4,10 @@ title:  "Yosef Maldonado"
 date:   2017-01-01
 category: staff
 description: >
-    Descripcion corta que se vera en el listado por categoria.
+    Innovative and a maker experienced in development of courses focused on college students.
 permalink: /:categories/:title.html
 ---
 
-No modifiquen la fecha del post de staff.
+![Yosef Maldonado](/assets/img/staff/yosef.jpg)
 
-Descripcion o biografia.
-
-Pueden escribir varios parrafos.
-
-![Imagen externa](http://i.imgur.com/clKyho4.jpg)
-![Imagen local](/assets/img/ejemplo/and.gif)
-
-[Link](https://www.google.com) hacia Google.
+Fourth year student at Galileo University, innovative and a maker experienced in development of courses focused on college students. Yosef works in the innovation Laboratory at Galileo University of Guatemala, where he continuously interact with new technology. His main interest is in VR and AR development.

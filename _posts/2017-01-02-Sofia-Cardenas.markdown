@@ -1,20 +1,13 @@
 ---
 layout: nodate
-title:  "Sofi Cardenas"
+title:  "Sofi Cárdenas"
 date:   2017-01-02
 category: staff
 description: >
-    Descripcion corta que se vera en el listado por categoria.
+    Working on workshops and projects related to AI and microcontrollers.
 permalink: /:categories/:title.html
 ---
 
-No modifiquen la fecha del post de staff.
+![Sofia Cárdenas](/assets/img/staff/sofi.jpg)
 
-Descripcion o biografia.
-
-Pueden escribir varios parrafos.
-
-![Imagen externa](http://i.imgur.com/clKyho4.jpg)
-![Imagen local](/assets/img/ejemplo/and.gif)
-
-[Link](https://www.google.com) hacia Google.
+Third-year Electronical Engineering student at Universidad Galileo, currently working on different workshops provided by the Innovation Laboratory to school students, as well as on some projects related to artificial intelligence and microcontrollers.
